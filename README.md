@@ -11,7 +11,7 @@ One nice thing I did notice is that IntelliJ Idea will show the render version o
 You can now edit your readme file locally and upload changes as always.<br>
 <img width="1280" alt="readme-file" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/bb5247e1-1e85-4e8a-a61f-01f309d3b7ae"><br>
 ## PSVM shortcut
-![psvm-boiler-plate](https://github.com/danielurra/intellij-idea-test01/assets/51704179/0a3167fc-c2f5-4017-8bef-b74d93bbf5b4)<br>
+![psvm-boiler-plate-02](https://github.com/danielurra/intellij-idea-test01/assets/51704179/4c3b36b8-363d-486e-b448-d41f8d9745e2)<br>
 As with any other IDE you'll rely a lot on shortcuts when writting your code, **psvm** is one commonly used<br>
 Below screenshot show it in action:<br>
 <img width="567" alt="psvm" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/6ffaa2d5-feb2-44be-bf45-855d7d040bab"><br>
