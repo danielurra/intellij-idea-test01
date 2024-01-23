@@ -10,3 +10,12 @@ But when it comes to selecting a `VCS (Version Control System)` almost all of th
 One nice thing I did notice is that IntelliJ Idea will show the render version of your Readme file, how cool is that?<br>
 You can now edit your readme file locally and upload changes as always.<br>
 <img width="1280" alt="readme-file" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/bb5247e1-1e85-4e8a-a61f-01f309d3b7ae"><br>
+## PSVM shortcut
+As with any other IDE you'll rely a lot on shortcuts when writting your code, **psvm** is one commonly used<br>
+Below screenshot show it in action:<br>
+<img width="567" alt="psvm" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/6ffaa2d5-feb2-44be-bf45-855d7d040bab"><br>
+After pressing the `TAB` key you will see the code automatically written, this is the easy way to deal with code boiler plate.<br>
+<img width="459" alt="psvm-02" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/9559a5ab-0e37-491f-952d-39bbc65bed38"><br>
+
+
+
