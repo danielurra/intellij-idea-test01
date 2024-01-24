@@ -18,11 +18,11 @@ Below screenshot show it in action:<br>
 After pressing the `TAB` key you will see the code automatically written, this is the easy way to deal with code boiler plate.<br>
 <img width="459" alt="psvm-02" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/9559a5ab-0e37-491f-952d-39bbc65bed38"><br>
 ## SOUT shortcut
-A common practice when writing code is to rely in the system console, either to ask/receive data from the user or to simply show results<br>
+A common practice when writing code is to rely in the system console, either to ask/receive data from the user or to simply show results.<br>
 The most used command when interacting with the console is `system.out.println`, luckily we have a shortcut available to assist us:<br>
 ![sout-01](https://github.com/danielurra/intellij-idea-test01/assets/51704179/35246ac3-92be-4f43-a132-e6bd89fa46e9)<br>
 # Start typing **sou** to see the menu
-As you can see in below screenshot, as soon as you start typing the word **sout** the IDE will show you a menu<br>
+As you can see in below screenshot, as soon as you start typing the word **sout** the IDE will show you a menu.<br>
 Select the correct option and hit `TAB`:<br>
 <img width="394" alt="sout-02" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/ac2f0663-e784-4e36-8eb5-50fb5ea45f43"><br>
 # Complete with double quotation marks and type your text
