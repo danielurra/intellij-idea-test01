@@ -1,5 +1,5 @@
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
-# Connecting a IntelliJ Idea project with GitHub
+# Connecting a IntelliJ Idea Java project with GitHub
 Each java IDE has its own way to interact with remote repositories like GitHub<br>
 But when it comes to selecting a `VCS (Version Control System)` almost all of them will use **Git**<br>
 ## Use "Test" button to get the current version of Git installed on your computer
