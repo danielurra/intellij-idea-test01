@@ -1,5 +1,6 @@
 ## Index
-[Intro](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
+[Introduction](https://github.com/danielurra/intellij-idea-test01/blob/main/README.md#introduction)<br>
+[Connecting](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
 [How to connect](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
 [Text](link)<br>
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
