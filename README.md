@@ -3,7 +3,10 @@
 [How to connect](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
 [Text](link)<br>
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
-# Connecting a IntelliJ Idea Java project with GitHub
+# Introduction
+**IntelliJ Idea** along with **Eclipse** are two of the most commonly used IDEs for Java programming, both have free versions aka `Community Edition`<br>
+In this short article I'm gonna show a few important shortcuts that will save you time when writting code, also how to upload your projects to GitHub.<br>
+## Connecting a IntelliJ Idea Java project with GitHub
 Each java IDE has its own way to interact with remote repositories like GitHub<br>
 But when it comes to selecting a `VCS (Version Control System)` almost all of them will use **Git**<br>
 ## Use "Test" button to get the current version of Git installed on your computer
