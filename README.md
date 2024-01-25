@@ -1,6 +1,6 @@
 ## Index
 [Intro](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
-[Text](link)<br>
+[How to connect](link)<br>
 [Text](link)<br>
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
 # Connecting a IntelliJ Idea Java project with GitHub
