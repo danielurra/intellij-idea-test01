@@ -44,7 +44,7 @@ Select the correct option and hit `TAB`:<br>
 # Job well done
 <img width="305" alt="sout-04" src="https://github.com/danielurra/intellij-idea-test01/assets/51704179/4cddc679-cf29-4fd6-8fef-ec29005889da"><br>
 ## Markdown
-I did use this small article to apply the **Markdown** lesson learnt by reading the following article:<br>
+I did use this small article to apply the **Markdown** lesson learned by reading the following article:<br>
 [Manually create a Markdown table of contents](https://www.setcorrect.com/portfolio/work11/)<br>
 
 
