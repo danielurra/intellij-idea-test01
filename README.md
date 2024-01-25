@@ -7,6 +7,7 @@
 [Readme file](https://github.com/danielurra/intellij-idea-test01#verify-your-github-profile-has-been-successfully-connected)<br>
 [Keyboard shortcuts](https://github.com/danielurra/intellij-idea-test01#psvm-shortcut)<br>
 * [PSVM shortcut](https://github.com/danielurra/intellij-idea-test01#psvm-shortcut)<br>
+* [SOUT shortcut](https://github.com/danielurra/intellij-idea-test01#sout-shortcut)<br>
 
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
 # Introduction
