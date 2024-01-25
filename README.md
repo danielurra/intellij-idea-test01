@@ -3,6 +3,7 @@
 [Connecting with GitHub](https://github.com/danielurra/intellij-idea-test01#connecting-a-intellij-idea-java-project-with-github)<br>
 [Git version](https://github.com/danielurra/intellij-idea-test01/blob/main/README.md#use-test-button-to-get-the-current-version-of-git-installed-on-your-computer)<br>
 [GitHub profile](https://github.com/danielurra/intellij-idea-test01#verify-your-github-profile-has-been-successfully-connected)<br>
+[Readme file](https://github.com/danielurra/intellij-idea-test01#verify-your-github-profile-has-been-successfully-connected)<br>
 ![intellij-idea-and-java](https://github.com/danielurra/intellij-idea-test01/assets/51704179/aed147f6-9899-4fa0-98a6-5c6f65682015)<br>
 # Introduction
 **IntelliJ Idea** along with **Eclipse** are two of the most commonly used IDEs for Java programming, both have free versions aka `Community Edition`<br>
